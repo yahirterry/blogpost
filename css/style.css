@@ -1,7 +1,11 @@
 body{
         text-align: center;
         font-family: Arial, Helvetica, sans-serif;
+<<<<<<< HEAD
         color: rgb(0, 255, 64);
+=======
+        color: rgb(204, 9, 243);
+>>>>>>> main
         margin: 0;
     padding: 0;
 }
